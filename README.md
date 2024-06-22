@@ -11,7 +11,7 @@ A very lightweight skeleton loader for React.
 Install the library using npm:
 
 ```
-npm install @paul/skeleton-loader-react
+npm install https://github.com/souvik-pl/skeleton-loader-react.git
 ```
 
 ## Usage
