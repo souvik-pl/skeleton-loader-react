@@ -1,13 +1,13 @@
 {
-  "name": "skeleton-loader-react",
+  "name": "@paul/skeleton-loader-react",
   "version": "1.0.0",
-  "description": "A very lightweight skeleton loader for react",
+  "description": "A very lightweight skeleton loader for React",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/**/*"
   ],
-  "scripts": {
+ "scripts": {
     "prepare": "npm run build",
     "build": "tsc"
   },

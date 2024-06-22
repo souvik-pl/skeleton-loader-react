@@ -11,7 +11,7 @@ A very lightweight skeleton loader for React.
 Install the library using npm:
 
 ```
-npm install skeleton-loader-react
+npm install @paul/skeleton-loader-react
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install skeleton-loader-react
 Import the Skeleton component:
 
 ```tsx
-import { Skeleton } from "skeleton-loader-react";
+import { Skeleton } from "@paul/skeleton-loader-react";
 ```
 
 ### Variants
@@ -70,7 +70,7 @@ The Skeleton component supports three variants: `circle`, `rectangle`, and `rect
 
 ```tsx
 import React from "react";
-import { Skeleton } from "skeleton-loader-react";
+import { Skeleton } from "@paul/skeleton-loader-react";
 
 const App = () => {
   return (
